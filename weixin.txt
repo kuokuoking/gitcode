@@ -3,4 +3,8 @@ Git is free software.
 i love
 you
 
+<<<<<<< HEAD
 11111
+=======
+11111
+>>>>>>> f
